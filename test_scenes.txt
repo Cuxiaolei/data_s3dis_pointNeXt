@@ -1,0 +1,6 @@
+merged\Area_28-29(28.npy
+merged\Area_16-17(16.npy
+merged\Area_19-20(19.npy
+merged\Area_22-23(22.npy
+merged\Area_27-28(27.npy
+merged\Area_15-16(15.npy
