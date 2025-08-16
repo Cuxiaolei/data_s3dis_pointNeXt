@@ -1,6 +1,6 @@
-merged/Area_28-29.npy
-merged/Area_16-17.npy
-merged/Area_19-20.npy
-merged/Area_22-23.npy
-merged/Area_27-28.npy
-merged/Area_15-16.npy
+merged/Area_28.npy
+merged/Area_16.npy
+merged/Area_19.npy
+merged/Area_22.npy
+merged/Area_27.npy
+merged/Area_15.npy
